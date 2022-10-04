@@ -2,11 +2,11 @@ package Classes;
 
 public class Persona {
 	
-	private String nombre;
+	private String name;
 	
 	
 	public Persona(String nombre) {
-		this.nombre=nombre;
+		this.name=nombre;
 	}
 
 }
